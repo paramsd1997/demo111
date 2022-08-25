@@ -14,11 +14,5 @@ public class LocationController {
 		return "index1"; 
 	}
 	
-	@RequestMapping("/divyaraj2")
-	public String maven2() {
-		return "index2"; 
-	}
-	
-	
 	}
 
